@@ -1,0 +1,31 @@
+.DS_Store
+.atom/
+.bash_history
+.bundle/
+.gitconfig
+.lesshst
+.ssh/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{27738f26-5d5e-11e8-bf4b-e7f52c5ef1cc}.TM.blf
+NTUSER.DAT{27738f26-5d5e-11e8-bf4b-e7f52c5ef1cc}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{27738f26-5d5e-11e8-bf4b-e7f52c5ef1cc}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
